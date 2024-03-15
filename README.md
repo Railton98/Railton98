@@ -7,7 +7,7 @@ Possuo maior experiência e afinidade com **Back-End**, principalmente com _PHP_
 Também tenho experiência com _NodeJS_, _Vue.js_ e _Flutter_.
 
 ## Skills
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railton98&layout=donut-vertical&theme=dark"/>
+<img align="right" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railton98&layout=donut-vertical&theme=dark"/>
 
 - Linguagens<br/>
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
