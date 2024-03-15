@@ -32,6 +32,8 @@ Também tenho experiência com _NodeJS_, _Vue.js_ e _Flutter_.
 ![image](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
 ![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+Veja [aqui](curriculo.pdf), meu currículo atualizado detalhando habilidades, conhecimentos e experiências.
+
 ## Contatos
 <div>
   <a href="https://www.linkedin.com/in/railton-leal" target="_blank">
