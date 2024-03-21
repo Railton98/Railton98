@@ -52,3 +52,6 @@ Veja [aqui](curriculo.pdf), meu currículo atualizado detalhando habilidades, co
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
+<br/>
+
+Veja [aqui](https://github.com/Railton98/my-studies), alguns exemplos de novas ferramentas e tecnologias que estou estudando no momento.
