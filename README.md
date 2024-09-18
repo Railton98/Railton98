@@ -32,7 +32,7 @@ Também tenho experiência com _NodeJS_, _Vue.js_ e _Flutter_.
 ![image](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
 ![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-Veja [aqui](https://drive.google.com/file/d/1_bCAwL-z240f6qWjaulH1h2BkhPT9SNG/view?usp=sharing), meu currículo atualizado detalhando habilidades, conhecimentos e experiências.
+Veja [aqui](https://drive.google.com/file/d/15OJV5JW_d-moMJl59AvwxFfayN57KOHX/view?usp=sharing), meu currículo atualizado detalhando habilidades, conhecimentos e experiências.
 
 ## Contatos
 <div>
