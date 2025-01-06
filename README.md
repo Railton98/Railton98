@@ -1,6 +1,6 @@
 # Railton Leal Rodrigues
 
-### Desenvolvedor Full Stack em busca de novas oportunidades.
+> Desenvolvedor BackEnd Pleno na [upLexis](https://uplexis.com.br/)
 
 Desenvolvedor de software desde 2019, atuando em diversas empresas e projetos, desenvolvendo _sites_, _sistemas_, _APIs_ e _aplicativos móveis_.<br/>
 Possuo maior experiência e afinidade com **Back-End**, principalmente com _PHP_ e o “ecossistema” _Laravel_.<br/>
