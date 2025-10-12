@@ -2,9 +2,9 @@
 
 > Desenvolvedor BackEnd Pleno na [upLexis](https://uplexis.com.br/)
 
-Desenvolvedor de software desde 2019, atuando em diversas empresas e projetos, desenvolvendo _sites_, _sistemas_, _APIs_ e _aplicativos móveis_.<br/>
-Possuo maior experiência e afinidade com **Back-End**, principalmente com _PHP_ e o “ecossistema” _Laravel_.<br/>
-Também tenho experiência com _NodeJS_, _Vue.js_ e _Flutter_.
+Com mais de **6 anos de experiência** transformando desafios de negócio em soluções de software robustas e eficientes, sou um Desenvolvedor de Software com forte especialização no ecossistema Backend com **PHP e Laravel**.<br/><br/>
+Meu foco é arquitetar e construir sistemas escaláveis e de alta performance. Em projetos anteriores, **liderei a implementação de testes automatizados** que reduziram bugs em produção de forma considerável, **refatorei códigos legados** para aumentar a manutenibilidade e **implementei integrações críticas com APIs de pagamento**, garantindo a segurança e a eficiência das transações.<br/><br/>
+Busco constantemente aplicar as melhores práticas de desenvolvimento, escrevendo código limpo e testável para construir produtos digitais robustos que resolvem problemas complexos e entregam valor real ao negócio.
 
 ## Skills
 <img align="right" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railton98&layout=donut-vertical&theme=dark"/>
@@ -32,7 +32,8 @@ Também tenho experiência com _NodeJS_, _Vue.js_ e _Flutter_.
 ![image](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
 ![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-Veja [aqui](https://drive.google.com/file/d/1Zab4W0DDGPzjnZIolFLyRbATTwHYRT6X/view?usp=sharing), meu currículo atualizado detalhando habilidades, conhecimentos e experiências.
+Currículo [PT-BR](https://drive.google.com/file/d/1m-QPl4LBQW7KJDRDQx1Kb6cqIi7OAzJR/view?usp=sharing)<br>
+Currículo [EN](https://drive.google.com/file/d/1yMt9bHMjLYJP0ixkY1g-nrHue5iDU5FM/view?usp=sharing)
 
 ## Contatos
 <div>
